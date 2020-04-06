@@ -8,10 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "rikkirikkardo44"
+    "url": "git+https://github.com/rikkirikkardo44/hexlet-jest.git"
   },
   "author": "Evgeny Unger",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikkirikkardo44/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/rikkirikkardo44/hexlet-jest#readme",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
